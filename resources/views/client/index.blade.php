@@ -40,7 +40,7 @@
                     </tr>
                     @empty
                     <tr class="">
-                        <td scope="row" colspan="3">No hay registro.</td>
+                        <td scope="row" colspan="3">No hay registro por mostrar.</td>
                     </tr>
                     @endforelse
                 </tbody>
